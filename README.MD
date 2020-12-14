@@ -1,6 +1,6 @@
 # Asteroid Shooting Console Game with Python
 
-Basic implementation of famous console "asteroid shooting" game in Python.
+Basic implementation (no functions or classes) of famous console "asteroid shooting" game in Python.
 
 #### First input: # of asteroid rows.
 
